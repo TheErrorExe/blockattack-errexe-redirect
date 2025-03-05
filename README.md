@@ -1,2 +1,0 @@
-# blockattack-errexe-redirect
-Redirect
